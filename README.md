@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 希望我的分享能给你带来一些启发，也欢迎随时通过各种方式与我交流！
 
+---
+
 ## 🎓 教育背景
 - **上海海洋大学** (双一流)
   - 资源与环境, 工学硕士
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
   - 软件工程，工学学士
   - 2019.09 - 2023.06
 
+---
 
 ## 🛠️ 专业技能
 - **编程语言** 
@@ -49,6 +52,8 @@ Here are some ideas to get you started:
 
 - **数据科学**
   - 熟练掌握 Python 语言，Pandas、NumPy 等数据处理库；掌握爬虫，数据挖掘、清洗、分析可视化等技能，熟练绘制海洋、地理领域科研用图；
+
+---
 
 ## 🚀 项目经历
 
@@ -76,12 +81,16 @@ Here are some ideas to get you started:
   - 基于 Hive 搭建分层数仓，编写复杂 Hive SQL 实现日志、业务数据多维度统计分析
   - 使用 Scala 开发 Spark 离线计算任务，完成海量数据 ETL 清洗、指标聚合加工程序
 
+---
+
 ## 🏢 实习经历
 
 ### 上海成电福智科技有限公司（临港智能系统科创平台）
 
 - **职位**: 后端开发实习生（AI Agent方向）
 - **时间**: 2026.04 - 2024.07
+
+---
 
 ## 🏆 竞赛获奖&校园经历
 
@@ -93,6 +102,8 @@ Here are some ideas to get you started:
   - 本   科：省优秀毕业生、省三好学生、国家励志奖学金
   - 研究生：校优秀团员、院优秀党员、西北太平洋科考3个月（调查队员）
 
+---
+
 ## 🌱 正在学习&兴趣
 
 - 大模型技术
@@ -102,11 +113,15 @@ Here are some ideas to get you started:
 - 科技数码电子产品 | 自媒体 | 摄影 | 游泳 | 电影
 - 喜欢：👑LeBron James | 🏎️F1 McLaren | 🎤MaSiwei/Higher Brothers/邓紫棋
 
+---
+
 ## 📫 联系方式
 
 - **GitHub**: [turbo126](https://github.com/turbo1126)
 - **邮箱**: xiaohandeng01@gmail.com   |   421021637@qq.com
 - **电话**: (+86) 13607615904
+
+---
 
 ## 📝 其他
 
