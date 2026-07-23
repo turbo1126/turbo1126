@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ 专业技能
-- **编程语言** -
+- **编程语言** 
   - 熟悉 Java 基础知识，熟悉常见容器的底层原理， 熟悉 Java 并发编程；
 
 - **数据库**
