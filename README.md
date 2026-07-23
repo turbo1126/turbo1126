@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 - HPC高性能计算 | FDE | 解决方案
 - 具身智能
 - 分布式系统与云计算架构
-- 科技数码电子产品 | 自媒体 | 摄影 | 游泳 | 电影
+- 科技数码 | 自媒体 | 摄影 | 游泳 | 电影
 - 喜欢：👑LeBron James | 🏎️F1 McLaren | 🎤MaSiwei/Higher Brothers/邓紫棋
 
 ---
