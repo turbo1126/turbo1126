@@ -69,17 +69,17 @@ Here are some ideas to get you started:
 
 ### HorizonOnline项目（微服务）
 - **时间**：2024.03 - 2024.06
-- **描述**：以在线教育业务为目标，基于流行的前后端分离架构进行设计，采用Nginx、SpringBoot、Spring Cloud、MyBatis-Plus、MQ、Redis、Elasticsearch、XXL-Job、MinIO等框架和中间件为基础进行开发，实现分布式事务控制/文件系统/任务调度、课程发布业务、视频处理业务、选课学习业务、订单支付业务、认证授权等业务流程。
+- **描述**：以在线教育业务为目标，基于流行的前后端分离架构进行设计，采用Nginx、Spring Boot、Spring Cloud、MyBatis-Plus、MQ、Redis、Elasticsearch、XXL-Job、MinIO等框架和中间件为基础进行开发，实现分布式事务控制/文件系统/任务调度、课程发布业务、视频处理业务、选课学习业务、订单支付业务、认证授权等业务流程。
 
 ### 基于Spark的影视推荐系统（本科毕业设计）
 
 - **时间**: 2023.01 - 2023.4
 - **描述**: 基于 Spark、MongoDB、ES、Redis、Kafka 等技术搭建电影推荐系统，构建基于 B/S 结构的 Web 平台，实现包括基于内容的推荐、离线推荐、基于统计的推荐、实时推荐等模块，使用基于 ALS 矩阵分解的协同过滤算法和 TF-IDF 算法实现部分推荐
 
-### 个人博客项目
+### CodeKing个人博客项目
 
   - **时间**: 2022.06 - 2022.8
-  - **描述**：基于SpringBoot+Vue开发的个人博客项目。项目使用的技术： Spring Boot、MyBatis Plus、Redis、MySQL、ThreadLocal、JWT
+  - **描述**：基于Spring Boot+Vue开发的个人博客项目。项目使用的技术： Spring Boot、MyBatis Plus、Redis、MySQL、ThreadLocal、JWT
   
 
 ### 大数据技能竞赛（获国家三等奖）
@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 ### 基于微信小程序的学习强国平台
 
 - **时间**: 2021
+- **描述**: 面向基层学习用户，实现文章爬取、文章API获取渲染、文章浏览点赞收藏、用户积分排名等功能
 ---
 
 ## 🏢 实习经历
