@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - **时间**：2024.03 - 2024.06
 - **描述**：以在线教育业务为目标，基于流行的前后端分离架构进行设计，采用Nginx、Spring Boot、Spring Cloud、MyBatis-Plus、MQ、Redis、Elasticsearch、XXL-Job、MinIO等框架和中间件为基础进行开发，实现分布式事务控制/文件系统/任务调度、课程发布业务、视频处理业务、选课学习业务、订单支付业务、认证授权等业务流程。
 
-### CRM系统
+### CDFZ-CRM系统
 - **时间**：2026.03
 - **描述**：基于YuDao系统二次开发，基于Spring Boot、Vue、Element UI、TS、XXL-Job、ECharts、Spring Security、PostgreSQL等技术，实现客户、渠道、供应商、用户管理、消息通知等功能。（基于CodeGenerate & Codex）
 
