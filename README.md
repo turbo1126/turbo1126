@@ -71,6 +71,11 @@ Here are some ideas to get you started:
 
 - **时间**: 2023.01 - 2023.4
 - **描述**: 基于 Spark、MongoDB、ES、Redis、Kafka 等技术搭建电影推荐系统，构建基于 B/S 结构的 Web 平台，实现包括基于内容的推荐、离线推荐、基于统计的推荐、实时推荐等模块，使用基于 ALS 矩阵分解的协同过滤算法和 TF-IDF 算法实现部分推荐
+
+### 个人博客项目
+
+  - **时间**: 2022.06 - 2022.8
+  - **描述**：基于SpringBoot+Vue开发的个人博客项目。项目使用的技术： Spring Boot、MyBatis Plus、Redis、MySQL、ThreadLocal、JWT
   
 
 ### 大数据技能竞赛
@@ -81,6 +86,9 @@ Here are some ideas to get you started:
   - 基于 Hive 搭建分层数仓，编写复杂 Hive SQL 实现日志、业务数据多维度统计分析
   - 使用 Scala 开发 Spark 离线计算任务，完成海量数据 ETL 清洗、指标聚合加工程序
 
+### 基于微信小程序的学习强国平台
+
+- **时间**: 2021
 ---
 
 ## 🏢 实习经历
