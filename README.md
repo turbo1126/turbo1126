@@ -149,6 +149,11 @@ Here are some ideas to get you started:
 - **GitHub**: [turbo126](https://github.com/turbo1126)
 - **邮箱**: xiaohandeng01@gmail.com   |   421021637@qq.com
 - **电话**: (+86) 13607615904
+- **Bilibili**：
+   <a href="https://space.bilibili.com/128697258">
+    <img src="https://img.shields.io/badge/Bilibili-%23FB7299.svg?style=flat&logo=bilibili&logoColor=white" />
+   </a>
+
 
 ---
 
