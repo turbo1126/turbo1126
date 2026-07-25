@@ -125,6 +125,7 @@ Here are some ideas to get you started:
   - WAIC2025 世界人工智能大会 （上海浦东世博）
   - WAIC2026 世界人工智能大会 （上海浦东世博）
   - Baidu & USTC 第六届全国大学生创业家成长计划训练营 （2021，安徽合肥）
+  - 2025秋叶原电子电器展（日本东京）
   - 2025上海国际车展 （上海虹桥）
   - BilibiliWorld 2025 （上海虹桥）
   - ChinaJoy2026 （上海浦东）
