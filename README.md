@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ### HorizonOnline项目（微服务）
 - **时间**：2024.03 - 2024.06
-- **描述**：以在线教育业务为目标，基于流行的前后端分离架构进行设计，采用Nginx、Spring Boot、Spring Cloud、MyBatis-Plus、MQ、Redis、Elasticsearch、XXL-Job、MinIO等框架和中间件为基础进行开发，实现分布式事务控制/文件系统/任务调度、课程发布业务、视频处理业务、选课学习业务、订单支付业务、认证授权等业务流程。
+- **描述**：以在线教育业务为目标，基于流行的前后端分离架构进行设计，采用Nginx、Spring Boot、Spring Cloud、MyBatis-Plus、MQ、Redis、Elasticsearch、XXL-Job、MinIO、JMeter等框架和中间件为基础进行开发，实现分布式事务控制/文件系统/任务调度、课程发布业务、视频处理业务、选课学习业务、订单支付业务、认证授权等业务流程。
 
 ### CDFZ-CRM系统
 - **时间**：2026.03
