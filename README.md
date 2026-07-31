@@ -57,17 +57,22 @@ Here are some ideas to get you started:
 
 ## 🚀 项目经历
 
-### LawThinker 基层治理智能体 (RAG项目)
+### RAG/Agent | LawThinker 基层治理智能体
 
 - **时间**: 2026.3 - 2026.07
 - **描述**: 基层治理智能体 LawThinker 项目，提供智能法律咨询、类案检索、文书自动生成等功能。项目落地数百街道，服务近万基层用户。作为核心研发人员，参与用户管理、知识库解析及构建检索、对话交互系统等后台开发工作。
   
-### OceanAgent （Agent CLI）
+### Agent/智能体 | OceanAgent （Agent CLI）
 
 - **时间**: 2026.02 - 2026.03
 - **描述**: 面向代码开发场景的终端交互式 Agent CLI，具备类 Codex 代码理解能力。支持 ReAct 推理循环、多智能体协作、MCP 工具集成、三层分级记忆、代码库 RAG 检索，可在终端内通过自然语言完成代码编写、执行、调试任务。（基于Codex、TRAE）
 
-### HorizonOnline项目（微服务）
+### 前端 | 临港智能系统科创平台门户网站（近期上线）
+
+- **时间**：2026.07
+- **描述**：基于 Nuxt 4 + Vue 3 + TypeScript + Strapi 5 + PostgreSQL 16 + Docker Compose 的中英文企业官网。前端通过 Nuxt 服务端接口读取 Strapi，支持公司介绍、页脚信息、案例与动态，以及微信公众号文章外链等功能。（AI Coding 基于 Codex ）
+
+### 微服务/Java | HorizonOnline项目
 - **时间**：2024.03 - 2024.06
 - **描述**：以在线教育业务为目标，基于流行的前后端分离架构进行设计，采用Nginx、Spring Boot、Spring Cloud、MyBatis-Plus、MQ、Redis、Elasticsearch、XXL-Job、MinIO、JMeter等框架和中间件为基础进行开发，实现分布式事务控制/文件系统/任务调度、课程发布业务、视频处理业务、选课学习业务、订单支付业务、认证授权等业务流程。
 
