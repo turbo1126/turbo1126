@@ -161,10 +161,6 @@ Here are some ideas to get you started:
 - **GitHub**: [turbo126](https://github.com/turbo1126)
 - **邮箱**: xiaohandeng01@gmail.com   |   421021637@qq.com
 - **电话**: (+86) 13607615904
-- **Bilibili**：
-   <a href="https://space.bilibili.com/128697258">
-    <img src="https://img.shields.io/badge/Bilibili-%23FB7299.svg?style=flat&logo=bilibili&logoColor=white" />
-   </a>
 
 
 ---
@@ -174,5 +170,4 @@ Here are some ideas to get you started:
 欢迎对我的项目和技术分享提出宝贵意见，也期待与更多技术同好交流与合作！
 
 ## 📊 GitHub Data
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=turbo1126&show_icons=true&theme=tokyonight"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbo1126&layout=compact&theme=tokyonight"/>
+
