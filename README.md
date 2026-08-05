@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - **时间**: 2026.02 - 2026.03
 - **描述**: 面向代码开发场景的终端交互式 Agent CLI，具备类 Codex 代码理解能力。支持 ReAct 推理循环、多智能体协作、MCP 工具集成、三层分级记忆、代码库 RAG 检索，可在终端内通过自然语言完成代码编写、执行、调试任务。（基于Codex、TRAE）
 
-### 前端 | 临港智能系统科创平台门户网站（[上海成电福智]([链接地址](https://www.cdfztech.com/) "上海成电福智科技有限公司（临港智能系统科创平台）")）
+### 前端 | 临港智能系统科创平台门户网站（[上海成电福智](https://www.cdfztech.com/) "上海成电福智科技有限公司（临港智能系统科创平台）")
 
 - **时间**：2026.07
 - **描述**：基于 Nuxt 4 + Vue 3 + TypeScript + Strapi 5 + PostgreSQL 16 + Docker Compose 的中英文企业官网。前端通过 Nuxt 服务端接口读取 Strapi，支持公司介绍、页脚信息、案例与动态，以及微信公众号文章外链等功能。（AI Coding 基于 Codex ）
