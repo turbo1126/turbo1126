@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## 🧑‍💻 个人简介
 我是一名来自上海海洋大学的在读硕士研究生。研究方向海洋数智孪生、深度学习台风预测。
 
-MBTI：INTJ -> ESTJ -> ENTJ。我是一个热爱探索和分享的技术爱好者，持续关注 大模型、AI Native、云原生、AI Infra、具身智能、科技数码等前沿技术领域。在这里，我会记录自己的学习心得、技术实践以及对行业的一些思考。
+MBTI：INTJ -> ESTJ -> ENTJ。
 
-希望我的分享能给你带来一些启发，也欢迎随时通过各种方式与我交流！
+我是一个热爱探索和分享的技术爱好者，持续关注 大模型、AI Native、云原生、AI Infra、具身智能、科技数码等前沿技术领域。在这里，我会记录自己的学习心得、技术实践以及对行业的一些思考。希望我的分享能给你带来一些启发，也欢迎随时通过各种方式与我交流！
 
 ---
 
@@ -35,23 +35,13 @@ MBTI：INTJ -> ESTJ -> ENTJ。我是一个热爱探索和分享的技术爱好�
 ---
 
 ## 🛠️ 专业技能
-- **编程语言** 
-  - 熟悉 Java 基础知识，熟悉常见容器的底层原理， 熟悉 Java 并发编程；
-
-- **数据库**
-  - 熟悉 MySQL 数据库常用特性，以及 SQL 的使用和优化。熟悉 Redis 的常见数据类型和应用场景、持久化、过期和淘汰策略、分布式锁等特性；
-
-- **框架**
-  - 熟练使用 Spring Boot、Spring Security、Spring AI、MyBatis Plus，可以根据需求快速构建项目。了解微服务、RabbitMQ等相关技术栈；
-
-- **计算机基础熟悉**
-  - 计算机网络，理解 TCP/IP 四层模型，掌握 HTTP(S)、TCP/UDP 协议；了解操作系统核心概念；熟练使用 Linux 操作系统，Docker，熟悉 Git、Maven 等项目管理和构建工具；
-
-- **AI开发**
-  - 了解 RAG、Agent、Function Calling、Skills、MCP、ReAct等概念，掌握 LangChain4j、LangGraph4j 框架，熟悉 Claude Code、Codex、TRAE 等 Coding 工具，熟练 AI 辅助编程，Harness Engineering；
-
-- **数据科学**
-  - 熟练掌握 Python 语言，Pandas、NumPy 等数据处理库；掌握爬虫，数据挖掘、清洗、分析可视化等技能，熟练绘制海洋、地理领域科研用图；
+- **编程语言** ：熟悉 Java 基础知识，熟悉常见容器的底层原理，了解iOS、Android、adb，掌握Android Studio、Xcode等工具使用；
+- **数据库** ：熟悉 MySQL 数据库常用特性，以及 SQL 的使用和优化。熟悉 Redis 的常见数据类型和应用场景、持久化、过期和淘汰策略、分布式锁等特性；
+- **框架** ：熟练使用 Spring Boot、Spring Security、Spring AI、MyBatis Plus，可以根据需求快速构建项目。了解微服务、RabbitMQ等相关技术栈；
+- **计算机基础** ：计算机网络，理解 TCP/IP 四层模型，掌握 HTTP(S)、TCP/UDP 协议；了解操作系统核心概念；熟练使用 Linux 操作系统，Docker，熟悉 Git、Maven 等项目管理和构建工具；了解CI/CD等
+- **AI开发** ：了解 RAG、Agent、Function Calling、Skills、MCP、ReAct等概念，掌握 LangChain4j、LangGraph4j 框架，熟悉 Claude Code、Codex、TRAE 等 Coding 工具，熟练 AI 辅助编程，Harness Engineering；
+- **数据科学** ：熟练掌握 Python 语言，Pandas、NumPy 等数据处理库；掌握爬虫，数据挖掘、清洗、分析可视化等技能，熟练绘制海洋、地理领域科研用图；
+- **其他** ：熟悉摄影，掌握Figma、LR、PS、剪映等工具的使用
 
 ---
 
@@ -125,7 +115,7 @@ MBTI：INTJ -> ESTJ -> ENTJ。我是一个热爱探索和分享的技术爱好�
 
 ### 小红书
 
-- **职位**: 全栈开发实习生（客户端）
+- **职位**: 全栈开发实习生（AI Native）
 - **时间**: 2026.08 - 
 
 ---
